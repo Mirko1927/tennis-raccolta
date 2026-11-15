@@ -395,3 +395,32 @@ letto_utc,id,torneo,livello,doppio,home,away,inizio_utc,quota_home,quota_away,qu
 2026-11-15T08:30:43Z,204649916,Challenger Champaign,Challenger,0,Liam Krall,Khololwam Montsi,2026-11-15T23:30:00Z,6.5,1.1,2026-11-15T07:54:21.520205078Z
 2026-11-15T08:30:43Z,204629736,Challenger Helsinki,Challenger,0,James Duckworth,Eero Vasa,2026-11-17T09:00:00Z,1.2,4.333,2026-11-15T07:41:30.999625027Z
 2026-11-15T08:30:43Z,204619286,Challenger Sydney MD,Challenger,1,Kubler/Puttergill,Cook/Sach,2026-11-17T23:00:00Z,1.333,3.25,2026-11-15T08:18:41.207125717Z
+2026-11-15T09:28:10Z,204624029,W15 Monastir,ITF-W,0,Daria Kuczer,Anastasia Lizunova,2026-11-15T08:30:00Z,1.571,2.25,2026-11-15T08:31:48.313588794Z
+2026-11-15T09:28:10Z,204623985,W15 Paris,ITF-W,0,Chelsea Fontenel,Iva Primorac Pavicic,2026-11-15T09:30:00Z,2.25,1.571,2026-11-15T09:24:20.719221134Z
+2026-11-15T09:28:10Z,204627180,Challenger Helsinki,Challenger,0,Jay Clarke,Arvid Nordquist,2026-11-15T10:30:00Z,1.167,4.5,2026-11-15T08:39:04.869766319Z
+2026-11-15T09:28:10Z,204641027,Challenger Montevideo,Challenger,0,Thiago Estramil,Alvaro Guillen Meza,2026-11-15T13:00:00Z,11.0,1.02,2026-11-15T09:03:51.735207701Z
+2026-11-15T09:28:10Z,204641022,Challenger Montevideo,Challenger,0,Carlos Sanchez Jover,Ignacio Carou,2026-11-15T16:00:00Z,1.015,12.0,2026-11-15T09:00:31.984206335Z
+2026-11-15T09:28:10Z,204641020,Challenger Montevideo,Challenger,0,Pedro Boscardin Dias,Tomas Zurmendi,2026-11-15T17:30:00Z,1.012,13.0,2026-11-15T09:00:39.650889022Z
+2026-11-15T09:28:10Z,204647963,Challenger Drummondville,Challenger,0,Noah Zamora,Julien Cordeau,2026-11-15T20:30:00Z,1.005,17.0,2026-11-15T08:59:45.4177244Z
+2026-11-15T09:28:10Z,204655729,Challenger Drummondville,Challenger,0,Nicolas Mejia,Louis Wessels,2026-11-16T16:00:00Z,1.2,4.333,2026-11-15T09:03:22.259046142Z
+2026-11-15T09:28:10Z,204655730,Challenger Drummondville,Challenger,0,Braden Shick,Aidan Mayo,2026-11-16T16:00:00Z,3.25,1.333,2026-11-15T09:03:11.027268997Z
+2026-11-15T09:28:10Z,204655731,Challenger Drummondville,Challenger,0,Hynek Barton,Alexis Galarneau,2026-11-16T16:00:00Z,1.8,1.909,2026-11-15T09:03:22.259046142Z
+2026-11-15T09:28:10Z,204655732,Challenger Drummondville,Challenger,0,Darwin Blanch,Colin Sinclair,2026-11-16T16:00:00Z,1.071,7.5,2026-11-15T09:03:11.372402531Z
+2026-11-15T09:28:10Z,204655733,Challenger Drummondville,Challenger,0,Keegan Rice,Liam Draxl,2026-11-16T16:00:00Z,3.0,1.364,2026-11-15T09:03:11.565411961Z
+2026-11-15T09:28:10Z,204655734,Challenger Drummondville,Challenger,0,Dylan Dietrich,Petr Nesterov,2026-11-16T16:00:00Z,1.143,5.0,2026-11-15T09:03:22.256769733Z
+2026-11-15T09:28:10Z,204655735,Challenger Drummondville,Challenger,0,Cannon Kingsley,Justin Boulais,2026-11-16T16:00:00Z,1.727,2.0,2026-11-15T09:03:22.256622242Z
+2026-11-15T09:28:10Z,204655736,Challenger Drummondville,Challenger,0,Duncan Chan,Michael Mmoh,2026-11-16T16:00:00Z,3.75,1.25,2026-11-15T09:03:10.84901142Z
+2026-11-15T09:28:10Z,204655737,Challenger Drummondville,Challenger,0,Patrick Zahraj,Alvin Nicholas Tudorica,2026-11-16T16:00:00Z,1.25,3.75,2026-11-15T09:03:22.255171813Z
+2026-11-15T09:28:10Z,204655738,Challenger Drummondville,Challenger,0,Mikael Arseneault,Clement Chidekh,2026-11-16T16:00:00Z,7.0,1.083,2026-11-15T09:03:11.161552464Z
+2026-11-15T09:28:10Z,204657233,Challenger Montevideo,Challenger,0,Matias Soto,Alex Barrena,2026-11-16T16:00:00Z,2.625,1.444,2026-11-15T09:03:11.061380772Z
+2026-11-15T09:28:10Z,204657234,Challenger Montevideo,Challenger,0,Raphael Pucinelli De Almeida,Nicolas Jarry,2026-11-16T16:00:00Z,17.0,1.005,2026-11-15T09:03:11.214511197Z
+2026-11-15T09:28:10Z,204657235,Challenger Montevideo,Challenger,0,Juan Carlos Prado Angelo,Lautaro Midon,2026-11-16T16:00:00Z,1.833,1.833,2026-11-15T09:03:22.255590045Z
+2026-11-15T09:28:10Z,204657236,Challenger Montevideo,Challenger,0,Henrique Rocha,Federico Aguilar Cardozo,2026-11-16T16:00:00Z,1.071,7.5,2026-11-15T09:03:11.000264729Z
+2026-11-15T09:28:10Z,204657237,Challenger Montevideo,Challenger,0,Guido Ivan Justo,Daniel Rincon,2026-11-16T16:00:00Z,1.909,1.8,2026-11-15T09:03:10.893857127Z
+2026-11-15T09:28:10Z,204657238,Challenger Montevideo,Challenger,0,Franco Roncadelli,Tomas Barrios Vera,2026-11-16T16:00:00Z,2.25,1.571,2026-11-15T09:03:11.395835721Z
+2026-11-15T09:28:10Z,204657239,Challenger Montevideo,Challenger,0,Juan Manuel La Serna,Francisco Comesana,2026-11-16T16:00:00Z,2.5,1.5,2026-11-15T09:03:11.243721843Z
+2026-11-15T09:28:10Z,204657240,Challenger Montevideo,Challenger,0,Juan Pablo Varillas,Gonzalo Bueno,2026-11-16T16:00:00Z,2.0,1.727,2026-11-15T09:03:11.324062484Z
+2026-11-15T09:28:10Z,204657241,Challenger Montevideo,Challenger,0,Tristan Boyer,Hugo Dellien,2026-11-16T16:00:00Z,2.375,1.533,2026-11-15T09:03:11.008131953Z
+2026-11-15T09:28:10Z,204657242,Challenger Montevideo,Challenger,0,Valerio Aboian,Zdenek Kolar,2026-11-16T16:00:00Z,1.833,1.833,2026-11-15T09:03:11.741209076Z
+2026-11-15T09:28:10Z,204626537,Challenger Sydney,Challenger,0,Dane Sweeny,Christian Langmo,2026-11-16T23:00:00Z,1.222,4.0,2026-11-15T08:58:57.907308114Z
+2026-11-15T09:28:10Z,204625530,Challenger Helsinki MD,Challenger,1,Rojer/Winegar,Ahti/Ronkainen,2026-11-18T12:00:00Z,1.015,12.0,2026-11-15T09:10:17.177760883Z
